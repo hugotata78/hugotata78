@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](header.jpg)
+![header](https://mott.pe/noticias/wp-content/uploads/2019/09/Lenguaje-de-programaci%C3%B3n-de-JavaScript-para-desarrollo-web-front-end-1-1280x720.png)
 ¡Hola! ¡Soy Hugo! Desarrollador web Full Stack. Bienvenido a mi Github. Siéntete libre de llevar todo lo que necesites, para poder modificarlo a tu gusto y mejorarlo de ser posible.
 Cuento con habilidades en JAVASCRIPT, REACT, REDUX, NODE,EXPRESS, HTML, CSS, BOOTSTRAP y SEQUELIZE.
 
