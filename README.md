@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**hugotata78/hugotata78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](header.jpg)
+¡Hola! ¡Soy Hugo! Desarrollador web Full Stack. Bienvenido a mi Github. Siéntete libre de llevar todo lo que necesites, para poder modificarlo a tu gusto y mejorarlo de ser posible.
+Cuento con habilidades en JAVASCRIPT, REACT, REDUX, NODE,EXPRESS, HTML, CSS, BOOTSTRAP y SEQUELIZE.
 
-Here are some ideas to get you started:
+Si tienes alguna duda, sugerencia o consejos, ¡házmelo saber!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Puedes encontrarme en.. 👀️
+
+* On [Linkedin](https://www.linkedin.com/in/hugo-tatarinoff/)
+
+Hello! I'm Hugo! Full Stack web developer. Welcome to my Github. Feel free to bring everything you need, to be able to modify it to your liking and improve it if possible.
+I have skills in JAVASCRIPT, REACT, REDUX, NODE, EXPRESS, HTML, CSS, BOOTSTRAP and SEQUELIZE.
+
+If you have any questions, suggestions or advice, let me know!
+
+### You can find me at .. 👀️
+
+On [Linkedin](https://www.linkedin.com/in/hugo-tatarinoff/)
+
+
