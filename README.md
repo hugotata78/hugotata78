@@ -8,7 +8,7 @@ Si tienes alguna duda, sugerencia o consejos, ¡házmelo saber!
 
 ### Puedes encontrarme en.. 👀️
 
-* On [Linkedin](https://www.linkedin.com/in/hugo-tatarinoff/)
+* En [Linkedin](https://www.linkedin.com/in/hugo-tatarinoff/)
 
 Hello! I'm Hugo! Full Stack web developer. Welcome to my Github. Feel free to bring everything you need, to be able to modify it to your liking and improve it if possible.
 I have skills in JAVASCRIPT, REACT, REDUX, NODE, EXPRESS, HTML, CSS, BOOTSTRAP and SEQUELIZE.
